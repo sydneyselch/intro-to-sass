@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+.border {
+  border: 1px solid #D3D3D3;
+}
+
+.border p {
+  color: #7FFFD4;
+}
